@@ -2,5 +2,5 @@ import system.web;
 class myone{
   int i=0;
   i++;
-  int j=2;
+  int j=3;
 }
